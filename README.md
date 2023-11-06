@@ -4,5 +4,5 @@
 1. 1. Full-time employee class derived from Employee containing additional information about position of an employee<br>
 1. 2. Hourly employee class derived from Employee containing information about hourly rate and amount of hours in a month that and employee has worked<br>
 2. Employee base class to store employees, add or delete them from the base and print them on the screen<br><br>
-Variable and class names are written in polish, which is a slight improvement I'll soon make.
+Variable and class names are written in Polish, which is a flaw I'll soon correct.
 </p>
